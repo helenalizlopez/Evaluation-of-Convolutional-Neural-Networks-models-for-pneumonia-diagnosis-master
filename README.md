@@ -59,7 +59,6 @@ conda create --name <env> --file <this file>
 ├── statistical_test.ipynb: different statistical test to analyze the results of models <br/>
 │ <br/>
 └── source <br/>
-│ <br/>
 │   └── my_module.py <br/>
 
 
