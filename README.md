@@ -23,8 +23,7 @@ In this work, we have designed and fitted a convolutional neural network trying 
 ## 3) Requirements
 
 The software used to it was Ubuntu 18.04.2 LTS.
-
-This project was run in Anaconda Navigator version 4.7.12, in the file *requirements.txt*,it includes all packages with each version and the command to install them: 
+This project was run in Anaconda Navigator version 4.7.12, in the file requirements.txt, it includes all packages with each version and the command to install them:
 
 conda create --name <env> --file <this file>
 
@@ -49,7 +48,7 @@ conda create --name <env> --file <this file>
 │   ├── model_125_0.ipynb <br/>
 │   └── model_pneumonia_0.ipynb <br/>
 │ <br/>
-├── create_kfold_datasets.ipynb: generate different subsets from the original one. <br/>
+├── create_kfold_datasets.ipynb: it generates different subsets from the original one. <br/>
 │ <br/>
 ├── heatmap_byfold.ipynb: eXplainable AI technique to generate a heatmap for each class (Consolidation/ No <br/>
 │   consolidation) for a model. <br/>
